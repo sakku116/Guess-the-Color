@@ -1,5 +1,5 @@
-# Guess-the-Color-w-tkinter-gui
-game sederhana, yang mungkin bisa mengasah ke jelian mata dalam membedakan warna
+# Guess-the-Color
+simple python game with tkinter gui
 ### Requirement
 - Python3
 - Tkinter
